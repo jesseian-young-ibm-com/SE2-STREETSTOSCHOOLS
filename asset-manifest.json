@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SE2-STREETSTOSCHOOLS/static/css/main.eb51ee03.css",
-    "main.js": "/SE2-STREETSTOSCHOOLS/static/js/main.c8a9de6a.js",
+    "main.js": "/SE2-STREETSTOSCHOOLS/static/js/main.ea1beac1.js",
     "static/media/member16.png": "/SE2-STREETSTOSCHOOLS/static/media/member16.f303f77b714339d9e041.png",
     "static/media/member3.png": "/SE2-STREETSTOSCHOOLS/static/media/member3.20d8378f2af3998bc7c8.png",
     "static/media/member15.png": "/SE2-STREETSTOSCHOOLS/static/media/member15.0aa4aaa6f32c49e8d7f2.png",
@@ -42,10 +42,10 @@
     "index.html": "/SE2-STREETSTOSCHOOLS/index.html",
     "static/media/forward_arrow.svg": "/SE2-STREETSTOSCHOOLS/static/media/forward_arrow.667dc7e2d1ccc1fc1d349576b32e3011.svg",
     "main.eb51ee03.css.map": "/SE2-STREETSTOSCHOOLS/static/css/main.eb51ee03.css.map",
-    "main.c8a9de6a.js.map": "/SE2-STREETSTOSCHOOLS/static/js/main.c8a9de6a.js.map"
+    "main.ea1beac1.js.map": "/SE2-STREETSTOSCHOOLS/static/js/main.ea1beac1.js.map"
   },
   "entrypoints": [
     "static/css/main.eb51ee03.css",
-    "static/js/main.c8a9de6a.js"
+    "static/js/main.ea1beac1.js"
   ]
 }
