@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SE2-STREETSTOSCHOOLS/static/css/main.45afebe5.css",
-    "main.js": "/SE2-STREETSTOSCHOOLS/static/js/main.dd9ea6af.js",
+    "main.css": "/SE2-STREETSTOSCHOOLS/static/css/main.eb51ee03.css",
+    "main.js": "/SE2-STREETSTOSCHOOLS/static/js/main.463e8f81.js",
     "static/media/member16.png": "/SE2-STREETSTOSCHOOLS/static/media/member16.f303f77b714339d9e041.png",
     "static/media/member3.png": "/SE2-STREETSTOSCHOOLS/static/media/member3.20d8378f2af3998bc7c8.png",
     "static/media/member15.png": "/SE2-STREETSTOSCHOOLS/static/media/member15.0aa4aaa6f32c49e8d7f2.png",
@@ -32,22 +32,20 @@
     "static/media/gcash_logo.png": "/SE2-STREETSTOSCHOOLS/static/media/gcash_logo.fbbe67860653b3a3dc13.png",
     "static/media/featured_image2.png": "/SE2-STREETSTOSCHOOLS/static/media/featured_image2.c338399b63d9013ad531.png",
     "static/media/featured_sub_image.png": "/SE2-STREETSTOSCHOOLS/static/media/featured_sub_image.c338399b63d9013ad531.png",
-    "static/media/bdo.png": "/SE2-STREETSTOSCHOOLS/static/media/bdo.bfdbd452bc661c3d2103.png",
     "static/media/bpi.png": "/SE2-STREETSTOSCHOOLS/static/media/bpi.f95be1120112ab3e4d06.png",
     "static/media/gcash.png": "/SE2-STREETSTOSCHOOLS/static/media/gcash.e5c3c280609df1ea16de.png",
-    "static/media/bdo_logo.png": "/SE2-STREETSTOSCHOOLS/static/media/bdo_logo.2ad98f2364459481300c.png",
     "static/media/bpi_logo.png": "/SE2-STREETSTOSCHOOLS/static/media/bpi_logo.92f2727f0954423081ec.png",
     "static/media/Footer_Logo.png": "/SE2-STREETSTOSCHOOLS/static/media/Footer_Logo.37521ff236488df3414f.png",
     "static/media/VOL.png": "/SE2-STREETSTOSCHOOLS/static/media/VOL.8edfa987bb7e5cb7d4f9.png",
     "static/media/PART.png": "/SE2-STREETSTOSCHOOLS/static/media/PART.de1edb6d1fecf6c12fc2.png",
     "static/media/ContactUs_IG.png": "/SE2-STREETSTOSCHOOLS/static/media/ContactUs_IG.a009cc54c10436912c3f.png",
     "index.html": "/SE2-STREETSTOSCHOOLS/index.html",
-    "static/media/forward_arrow.svg": "/SE2-STREETSTOSCHOOLS/static/media/forward_arrow.6e6ee7573422043148647ffedeba6ace.svg",
-    "main.45afebe5.css.map": "/SE2-STREETSTOSCHOOLS/static/css/main.45afebe5.css.map",
-    "main.dd9ea6af.js.map": "/SE2-STREETSTOSCHOOLS/static/js/main.dd9ea6af.js.map"
+    "static/media/forward_arrow.svg": "/SE2-STREETSTOSCHOOLS/static/media/forward_arrow.667dc7e2d1ccc1fc1d349576b32e3011.svg",
+    "main.eb51ee03.css.map": "/SE2-STREETSTOSCHOOLS/static/css/main.eb51ee03.css.map",
+    "main.463e8f81.js.map": "/SE2-STREETSTOSCHOOLS/static/js/main.463e8f81.js.map"
   },
   "entrypoints": [
-    "static/css/main.45afebe5.css",
-    "static/js/main.dd9ea6af.js"
+    "static/css/main.eb51ee03.css",
+    "static/js/main.463e8f81.js"
   ]
 }
